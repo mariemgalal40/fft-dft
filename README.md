@@ -1,5 +1,5 @@
 # fft-dft
-Tasl describtion 
+Task describtion 
 
 Fast Fourier Transform:
 
